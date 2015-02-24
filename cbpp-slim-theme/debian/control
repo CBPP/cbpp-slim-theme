@@ -1,0 +1,13 @@
+Source: cbpp-slim-theme
+Section: x11
+Priority: extra
+Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://crunchbangplusplus.org
+
+Package: cbpp-slim-theme
+Architecture: all
+Depends: ${misc:Depends}, fonts-liberation
+Description: default SLiM theme for CrunchBangPlusPlus
+ Default SLiM graphical login theme for CBPP.
